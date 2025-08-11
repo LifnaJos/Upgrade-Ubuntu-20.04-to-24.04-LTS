@@ -56,7 +56,7 @@ sudo reboot
 lsb_release -a
 ```
 
-### Phase - 2 : Upgrading from Ubuntu 22.04 LTS to 24.04 LTS
+## Phase - 2 : Upgrading from Ubuntu 22.04 LTS to 24.04 LTS
 ```
 sudo apt update && sudo apt upgrade -y
 sudo apt dist-upgrade -y
